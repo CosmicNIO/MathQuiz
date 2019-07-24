@@ -2,8 +2,6 @@
 
 MathQuiz is a math game for Android developed for a university assignment in Semester 1, 2018. The minimum API level is 23.
 
-![](https://i.imgur.com/GyhtvDQ.png =200x) ![](https://i.imgur.com/vVlDku1.png =200x) ![](https://i.imgur.com/PAl7ejh.png =200x)
-
 ## Getting Started
 
 ### Prerequisites
