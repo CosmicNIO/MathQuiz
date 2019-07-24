@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="prog_view_game_over">Game over. You got %1$d answers correct!</string>
+    <string name="highscores_text">Highscores:</string>
+    <string name="login_to_twitter_text">Login to Twitter</string>
+    <string name="tweet_your_highest_score_text">Tweet Your Highest Score!</string>
+    <string name="math_quiz_title_text">Math Quiz!</string>
+    <string name="play_button_text">Play</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="stats_button_text">Stats</string>
+    <string name="problem_example_text">5 x 6 = ?</string>
+    <string name="new_high_score_text">New High Score!</string>
+    <string name="example_ans_text_one">53</string>
+    <string name="example_ans_text_two">134</string>
+    <string name="how_to_play_text">How to Play</string>
+    <string name="game_tip_text">Tilt your device and flick the screen to shoot the ball!</string>
+</resources>

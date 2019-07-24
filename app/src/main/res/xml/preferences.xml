@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="Easy"
+        android:entries="@array/difficulty"
+        android:entryValues="@array/difficulty"
+        android:key="difficultySelection"
+        android:summary="Change the difficulty of the math problems."
+        android:title="Difficulty" />
+    <ListPreference
+        android:defaultValue="5"
+        android:entries="@array/question_numbers"
+        android:entryValues="@array/question_numbers"
+        android:key="num_of_questions"
+        android:summary="Set the number of math problems."
+        android:title="Number of questions" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="twitter_updates_switch"
+        android:summary="Post Twitter updates automatically as you get a high score."
+        android:title="Post Twitter updates" />
+</PreferenceScreen>
